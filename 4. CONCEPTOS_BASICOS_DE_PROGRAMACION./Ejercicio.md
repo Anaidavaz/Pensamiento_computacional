@@ -11,3 +11,5 @@ Investiga sobre algún lenguaje de programación e ingresa sus características.
 
 ![image](https://user-images.githubusercontent.com/113804653/193431088-b3d1e6c2-4775-4d0e-9bfc-343daf410278.png)
 ![image](https://user-images.githubusercontent.com/113804653/193431193-f6c38666-0a97-48db-9694-a0d69ef2179a.png)
+![image](https://user-images.githubusercontent.com/113804653/193431644-adbea749-5dea-45e1-9564-ffe8815fe9dd.png)
+![image](https://user-images.githubusercontent.com/113804653/193431649-6078a12d-88d4-4087-92d0-1c2505854da9.png)
