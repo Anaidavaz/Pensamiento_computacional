@@ -22,7 +22,8 @@ Adividana el numero
 
 el numero es mayor o menor
 
-![image](https://user-images.githubusercontent.com/113804653/197362412-3c532212-1e78-47e2-a01b-f0aeee52c451.png)
+![image](https://user-images.githubusercontent.com/113804653/197362582-96790525-04d9-4055-bf07-295055fc6665.png)
+
 
 
 
