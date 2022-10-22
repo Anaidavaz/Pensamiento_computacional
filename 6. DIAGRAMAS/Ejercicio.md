@@ -16,4 +16,6 @@
        
        22 DE OCTUBRE 2022
        
-        ![image](https://user-images.githubusercontent.com/113804653/197361304-d42fa08f-2c71-444a-90f0-f340d04998f5.png)
+       ![image](https://user-images.githubusercontent.com/113804653/197361564-de25eebd-9f96-411b-9a99-d163446fc194.png)
+       
+
