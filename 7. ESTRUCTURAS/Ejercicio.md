@@ -8,4 +8,14 @@
 
 3. Realizar un algoritmo y diagrama de flujo para un programa que solicite un número e indique si es par o impar.
 
+22 DE OCTUBRE
+
+![image](https://user-images.githubusercontent.com/113804653/197361595-e4c13c61-83fc-4b4f-ae68-8d060e6459e5.png)
+![image](https://user-images.githubusercontent.com/113804653/197361750-d7c997e2-a542-489f-88dc-da7a1fe4da58.png)
+
+
+
         TU ALGORITMO Y DIAGRAMA AQUI
+        
+        ![image](https://user-images.githubusercontent.com/113804653/197361587-52233ab7-9ba5-417a-b980-37d5dbfb85ae.png)
+
