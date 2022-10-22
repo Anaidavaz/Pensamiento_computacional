@@ -24,6 +24,8 @@ el numero es mayor o menor
 
 ![image](https://user-images.githubusercontent.com/113804653/197362582-96790525-04d9-4055-bf07-295055fc6665.png)
 
+para 5 intentos "variables vidas"
+![image](https://user-images.githubusercontent.com/113804653/197363252-488829d8-5a62-49dc-80d1-ffbd17ce7fa6.png)
 
 
 
