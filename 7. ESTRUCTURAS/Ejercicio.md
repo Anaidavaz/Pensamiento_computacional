@@ -29,6 +29,8 @@ para 5 intentos "variables vidas"
 
 decirle cuantas vidas te van quedando y decirle el numero secreto
 ![image](https://user-images.githubusercontent.com/113804653/197363410-7b1d571f-b621-4972-a951-dc8c9fe00598.png)
+![image](https://user-images.githubusercontent.com/113804653/197363777-d5ea14b9-192e-436b-b6bb-5d469abe57fc.png)
+
 
 
         TU ALGORITMO Y DIAGRAMA AQUI
