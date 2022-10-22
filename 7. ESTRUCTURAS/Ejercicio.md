@@ -13,6 +13,12 @@
 ![image](https://user-images.githubusercontent.com/113804653/197361595-e4c13c61-83fc-4b4f-ae68-8d060e6459e5.png)
 ![image](https://user-images.githubusercontent.com/113804653/197361750-d7c997e2-a542-489f-88dc-da7a1fe4da58.png)
 
+![image](https://user-images.githubusercontent.com/113804653/197361881-a88c92c3-d7ba-4107-be45-26d3e2d9e90a.png)
+
+Adividana el numero
+
+
+![image](https://user-images.githubusercontent.com/113804653/197362071-ce0931a6-620a-43b7-9b1f-f6dcb779f252.png)
 
 
         TU ALGORITMO Y DIAGRAMA AQUI
