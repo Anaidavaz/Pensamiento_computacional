@@ -31,6 +31,11 @@ decirle cuantas vidas te van quedando y decirle el numero secreto
 ![image](https://user-images.githubusercontent.com/113804653/197363410-7b1d571f-b621-4972-a951-dc8c9fe00598.png)
 ![image](https://user-images.githubusercontent.com/113804653/197363777-d5ea14b9-192e-436b-b6bb-5d469abe57fc.png)
 
+ORDENAR QUE REALICE LAS 4 OPERACIONES CON 2 VARIABLE
+
+![image](https://user-images.githubusercontent.com/113804653/197364854-d7561f3b-ecbe-4132-ad35-0b2db70877e5.png)
+![image](https://user-images.githubusercontent.com/113804653/197364876-020c32f8-ee3d-4de5-b114-d7993d32cb76.png)
+
 
 
         TU ALGORITMO Y DIAGRAMA AQUI
