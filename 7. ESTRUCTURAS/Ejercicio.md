@@ -20,6 +20,11 @@ Adividana el numero
 
 ![image](https://user-images.githubusercontent.com/113804653/197362071-ce0931a6-620a-43b7-9b1f-f6dcb779f252.png)
 
+el numero es mayor o menor
+
+![image](https://user-images.githubusercontent.com/113804653/197362412-3c532212-1e78-47e2-a01b-f0aeee52c451.png)
+
+
 
         TU ALGORITMO Y DIAGRAMA AQUI
         
