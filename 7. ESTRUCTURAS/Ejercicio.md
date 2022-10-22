@@ -27,6 +27,8 @@ el numero es mayor o menor
 para 5 intentos "variables vidas"
 ![image](https://user-images.githubusercontent.com/113804653/197363252-488829d8-5a62-49dc-80d1-ffbd17ce7fa6.png)
 
+decirle cuantas vidas te van quedando y decirle el numero secreto
+![image](https://user-images.githubusercontent.com/113804653/197363410-7b1d571f-b621-4972-a951-dc8c9fe00598.png)
 
 
         TU ALGORITMO Y DIAGRAMA AQUI
